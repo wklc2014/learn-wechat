@@ -1,2 +1,2 @@
-# learnWechat
-学习微信
+# learn-wechat
+学习微信开发
